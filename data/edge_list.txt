@@ -1,0 +1,6 @@
+1 2 {'relation': 'red'}
+1 3 {'relation': 'green'}
+2 4 {'relation': 'blue'}
+3 4 {'relation': 'crimson'}
+3 5 {'relation': 'yellow'}
+4 5 {'relation': 'black'}

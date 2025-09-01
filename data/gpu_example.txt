@@ -1,0 +1,6 @@
+customer1 gpu2 {'price': 100}
+customer1 gpu2 {'price': 100}
+customer2 gpu2 {'price': 100}
+customer3 gpu2 {'price': 100}
+customer3 gpu2 {'price': 100}
+customer4 gpu1 {'price': 10}

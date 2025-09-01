@@ -1,0 +1,13 @@
+Interchange Customs {'weight': 10}
+Customs PolikhimFactory {'weight': 10}
+PolikhimFactory Woods {'weight': 20}
+Woods Lighthouse {'weight': 5}
+Lighthouse Shoreline {'weight': 2}
+Shoreline Customs {'weight': 5}
+Lighthouse ArmyReserve {'weight': 20}
+ArmyReserve Woods {'weight': 20}
+Woods Customs {'weight': 10}
+Interchange ResidentialArea {'weight': 1}
+ResidentialArea RnDLabDistrict {'weight': 1}
+RnDLabDistrict PolikhimFactory {'weight': 60}
+
