@@ -10,3 +10,4 @@ Inside you have the following important files:
 - version.txt - versioning file.
 - vladislav_utils_v2.py - an assorted collection of functions I used to help myself make the Notebook easier to work with.
 - NetworkXExamples.ipynb - the Jupyter Notebook with the NetworkX examples for the presentation.
+- ./data/ - this folder contains example datasets for the Notebook.
